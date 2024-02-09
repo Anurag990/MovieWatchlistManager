@@ -1,2 +1,3 @@
 # MovieWatchlistManager
 MovieWatchlistManager is a web application designed to help users manage their movie watchlists. Users can add, update, and view movies in their watchlists through a user-friendly interface. 
+The application utilizes Spring Boot for backend development, incorporating features such as Spring Data JPA for database operations, Thymeleaf for server-side HTML rendering, and H2 in-memory database for data storage. Bootstrap is used for frontend styling, ensuring a modern and responsive user experience. The application also integrates with an external API (OMDb API) to fetch movie ratings dynamically. With its intuitive interface and seamless functionality, MovieWatchlistManager simplifies the process of organizing and tracking movies to watch.
